@@ -71,6 +71,14 @@ To build LV2s only set "BuildRakarrackPlus" to OFF:
 
     cmake -DBuildRakarrackPlus=OFF ..
 
+Rakarrack-plus-1.2.0-Pi
+--------------------
+Additional features, enhancements:
+*   Added F11 as record shortcut for looper.
+*   (On going) LCD control
+*   (On going) LED control
+*   (On going) footswitch control
+
 Rakarrack-plus-1.2.0
 --------------------
 Additional features, enhancements:
