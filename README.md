@@ -9,10 +9,10 @@ Screenshot
 
 About
 -----
-This project is a merging of original rakarrack (http://rakarrack.sourceforge.net)
-and the program's effects ported to LV2 from (https://github.com/ssj71/rkrlv2).
-In addition there are many bug fixes and enhancements to rakarrack and the LV2s.
-Rakarrack-plus-1.0.0 is the first version under the new name.
+This project is a merging of rakarrack-plus. This fork has been adapted to Raspberry Pi.
+The software can be controlled with footswichtes and shows the pedal names in small LCD
+screens. Also shows the pedal status using a two color led ring in every footswitch
+to work as a proffesional MIDI pedalboard.
 
 Install
 -------
