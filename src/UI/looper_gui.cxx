@@ -487,8 +487,10 @@ this->when(FL_WHEN_RELEASE);
   o->set_label_offset(4);
 } // RKR_Button* looper_stop
 { RKR_Button* o = looper_record = new RKR_Button(109, 117, 44, 22, "@circle");
+  looper_record->tooltip("Recordp - Shortcut \'F11\'");
   looper_record->type(1);
   looper_record->box(FL_UP_BOX);
+  looper_record->shortcut(0xffc8);
   looper_record->color(FL_BACKGROUND_COLOR);
   looper_record->selection_color(FL_BACKGROUND_COLOR);
   looper_record->labeltype(FL_NORMAL_LABEL);
